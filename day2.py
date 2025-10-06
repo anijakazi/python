@@ -1,16 +1,16 @@
 '''num=int (input("enter the value to check:"))
 flag=0
-if num<=1:
- print("not prime")
+if ( num<=1):
+print("this is not prime number")
 else:
-  for i in range(2,num):
-    if(num%i==0):
-      flag= flag + 1
+   for i in range(2,num):
+     if(num%i==0):
+         flag= flag + 1
 
   if flag!=0:
-   print("not prime")
-  else:
-   print("prime")'''
+      print("not prime")
+    else:
+     print("prime")'''
 
 
 ####problems
