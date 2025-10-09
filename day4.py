@@ -19,6 +19,6 @@ for i in range():'''
 
 
 s="anijakazi"
-x=(s.count)
-print(x)
-"""for i in range()""" 
+x=(len(s))
+for i in range(x, x-1):
+ print(x)
